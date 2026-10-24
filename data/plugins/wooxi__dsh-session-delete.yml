@@ -1,0 +1,7 @@
+url: https://github.com/wooxi/dsh-session-delete
+name: wooxi/dsh-session-delete
+category: session
+description:
+  en: Permanently delete a dsh session from the sidebar through a Claude-style confirmation modal, with no page reload and the workspace kept selected.
+  zh: 在 dsh 侧栏通过 Claude 风格确认弹窗永久删除会话，删除后不刷新页面，并保留当前工作区。
+icon: https://raw.githubusercontent.com/wooxi/dsh-session-delete/main/assets/icon-180.png
